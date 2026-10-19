@@ -1,0 +1,14 @@
+# eanab-user 5.1.1 2.1.0-ga-rc3 .6.6.0_user_660655320 release-keys
+- manufacturer: amazon
+- platform: imx6
+- codename: eanab
+- flavor: eanab-user
+- release: 5.1.1
+- id: 2.1.0-ga-rc3
+- incremental: .6.6.0_user_660655320
+- tags: release-keys
+- fingerprint: Amazon/eanab/eanab:5.1.1/2.1.0-ga-rc3/.6.6.0_user_660655320:user/release-keys
+- is_ab: false
+- brand: Amazon
+- branch: eanab-user-5.1.1-2.1.0-ga-rc3-.6.6.0_user_660655320-release-keys
+- repo: amazon_eanab_dump

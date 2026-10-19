@@ -1,0 +1,1 @@
+console=ttymxc0,115200 init=/init androidboot.console=ttymxc0 consoleblank=0 androidboot.hardware=freescale androidboot.selinux=enforcing uart_at_4M
